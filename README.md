@@ -28,4 +28,4 @@ An AI-powered transaction risk detection platform built using Streamlit and Isol
 
 <img width="450" height="auto/" alt="Screenshot 2026-06-06 at 1 08 34 AM" src="https://github.com/user-attachments/assets/fbdcfde8-b670-45b7-899d-23cb0367d24f" />
 
-<img width="450" height="450" alt="Screenshot 2026-06-06 at 1 08 46 AM" src="https://github.com/user-attachments/assets/7709b155-8834-4d4d-bf54-6297ec3e5ddc" />
+<img width="450" height="100" alt="Screenshot 2026-06-06 at 1 08 46 AM" src="https://github.com/user-attachments/assets/7709b155-8834-4d4d-bf54-6297ec3e5ddc" />
